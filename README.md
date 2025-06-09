@@ -112,7 +112,7 @@ Visit `http://127.0.0.1:8000/` to use the webapp.
 
 Pull requests and issues are welcome! Please open an issue for bug reports or feature requests.
 
--- Or your chosen license -->
+
 
 ## Acknowledgements
 
